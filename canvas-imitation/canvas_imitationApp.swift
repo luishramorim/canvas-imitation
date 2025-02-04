@@ -12,6 +12,7 @@ struct canvas_imitationApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .preferredColorScheme(.light)
         }
     }
 }
