@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/a51da086-379c-42f5-ad7f-c65bd44fd43a" alt="3912" height="300"> Canvas imitation
+# <img align="center" src="https://github.com/user-attachments/assets/a51da086-379c-42f5-ad7f-c65bd44fd43a" alt="3912" height="75"> Canvas imitation
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/99fcd179-c151-4b05-b837-e59b3a4ac6e8" alt="IMG_0882" width="150" style="margin-right: 10px;" />
